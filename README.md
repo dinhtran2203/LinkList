@@ -13,3 +13,5 @@ Create an ordered linked list to store integer values. This program must include
         Delete the largest value on the linked list
         Delete any value from the “middle” of the linked list (not smallest or largest, just any other value)
         Traverse the updated linked list, storing values in an output file called “OutputB.txt”
+
+OutputA and OutputB is two output from program
